@@ -1,9 +1,9 @@
 
 
 
-Solokanban is based on # Bunbun Kanban Board by **Laura** + **Patrik**
+Solokanban is based on [Bunbun Kanban Board](https://github.com/lau-zudelova/bunbun-kanban-board/) by **Laura** + **Patrik**
 
-https://kanban.laurazudel.me/
-https://github.com/lau-zudelova/bunbun-kanban-board/
+Bunbun Kanban Board is at 👉 https://kanban.laurazudel.me/
+
 
 
